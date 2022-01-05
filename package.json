@@ -1,0 +1,28 @@
+{
+  "name": "zettabyte-codechallange-section1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mujahid33/zettabyte-codechallange-section1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mujahid33/zettabyte-codechallange-section1/issues"
+  },
+  "homepage": "https://github.com/Mujahid33/zettabyte-codechallange-section1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5",
+    "mongoose-hidden": "^1.9.1",
+    "mongoose-update-if-current": "^1.4.0",
+    "multer": "^1.4.4"
+  }
+}
